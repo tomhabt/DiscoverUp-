@@ -44,4 +44,9 @@ https://tylerladas.github.io/DiscoverUp/
 
 ## Contribution
 Tyler Ladas, Dennis de Guzman, Thomas Habtemariam , Lakyn Felix
+ 
+ # Original GitHub repo
+https://tylerladas.github.io/DiscoverUp.git
 
+# Application site:
+https://cors-anywhere.herokuapp.com/corsdemo 
