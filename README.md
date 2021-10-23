@@ -8,7 +8,7 @@
 *****
 
 ## Purpose
-To build a local event dashboard that will run in the browser and feature dynamically updated HTML and CSS.
+To build a local event dashboard that will run in the browser and feature dynamically updated HTML and CSS. This project was a group project done for acadamic purpose only.
 
 ## User Story
 AS AN event goer<br>
